@@ -10,3 +10,6 @@ When billionaire industrialist Tony Stark dons his sophisticated steel-mesh armo
 Iron Man Quote:
 
 > This is a quote that Iron Man said
+
+
+<img src="https://lumiere-a.akamaihd.net/v1/images/avengers-characterpose-ironman_30193360.png?region=0%2C0%2C138%2C280"/>
