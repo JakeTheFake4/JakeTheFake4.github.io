@@ -6,3 +6,7 @@ When billionaire industrialist Tony Stark dons his sophisticated steel-mesh armo
 * Armor
 * Hi-Tech
 * Genius
+
+Iron Man Quote:
+
+> This is a quote that Iron Man said
